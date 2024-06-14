@@ -47,7 +47,7 @@ Option 1:
 3. Extract its contents
 4. Move the contents into /your-vault/.obsidian/plugins/obsidian-Better-Code-Highlight/
 5. Go to *Settings > Community plugins*
-6. Enable Legacy vault switcher
+6. Enable better code highlight
 
 Option 2:
 
@@ -55,7 +55,7 @@ Option 2:
 2. Download the latest `main.js`, `styles.css` and `manifest.json`
 3. Move the files into /your-vault/.obsidian/plugins/obsidian-Better-Code-Highlight/
 5. Go to *Settings > Community plugins*
-6. Enable Legacy vault switcher
+6. Enable better code highlight
 
 ## License
 
