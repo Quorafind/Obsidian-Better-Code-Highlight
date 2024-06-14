@@ -1,7 +1,7 @@
 {
 	"name": "better-code-highlight",
-	"version": "0.0.1",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"version": "1.0.0",
+	"description": "Use highlight.js to highlight code blocks in your notes.",
 	"main": "main.js",
 	"scripts": {
 		"lint": "npx eslint --fix --ext .ts .",
@@ -11,7 +11,7 @@
 	},
 	"keywords": [],
 	"author": "",
-	"license": "MIT",
+	"license": "BSD-3-Clause",
 	"devDependencies": {
 		"@codemirror/autocomplete": "^6.0.0",
 		"@codemirror/commands": "^6.0.0",

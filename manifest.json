@@ -1,7 +1,7 @@
 {
 	"id": "better-code-highlight",
 	"name": "Better Code Highlight",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Use highlight.js to highlight code blocks in your notes.",
 	"author": "Boninall",

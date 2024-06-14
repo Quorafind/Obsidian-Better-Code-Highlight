@@ -56,3 +56,7 @@ Option 2:
 3. Move the files into /your-vault/.obsidian/plugins/obsidian-Better-Code-Highlight/
 5. Go to *Settings > Community plugins*
 6. Enable Legacy vault switcher
+
+## License
+
+This project is licensed under the BSD-3-Clause License based on highlight.js.
